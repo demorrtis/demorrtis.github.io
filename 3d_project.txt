@@ -1,0 +1,15 @@
+<html>
+<a href="index.html"> Back to home page </a>
+   <head>
+
+     <meta charset="utf-8">
+     <title>Stephanie Encinas | 3d Printing </title>
+	<link rel="stylesheet" href="styles/main.css">
+   </head>
+
+ <body>
+     <h1>About 3d print </h1>
+     <p> Pyramid woop  </p>
+<p> this is my portfolio site </p>
+   </body>
+</html>
