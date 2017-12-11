@@ -16,7 +16,7 @@ h2 {
 	padding 
 	color: black;
 	text-align: center;
-	font-family: aarial;
+	font-family: arial;
 	
 }
 
@@ -28,7 +28,20 @@ color: white;
 padding: 0px; 
 text-align: center;
 font-size: 20px; 
-font-family: arial;
+font-family: ;
+}
+
+p.storytext {
+font-family: 'Jura', sans-serif;	
+}
+
+botton {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+a.storylink {
+	font-family: 'Montserrat', sans-serif;
 }
 
 
