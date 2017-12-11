@@ -2,7 +2,7 @@
  
 
 body {
-background-color: rgb(100,158, 186) ; 
+background-color: #000000 ; 
 text-align: center;
 }
 
@@ -24,6 +24,7 @@ h2 {
 
 
 p{
+color: white;
 padding: 0px; 
 text-align: center;
 font-size: 20px; 
